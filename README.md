@@ -32,7 +32,7 @@ In simple terms:
 
 ---
 
-## Why SSIFlow Exists
+## Why SSIFlow Exist
 
 Crypto investing is noisy, fast, and fragmented.
 
